@@ -50,7 +50,7 @@ The Identity Verification DApp addresses the growing need for decentralized iden
 - ✅ Identify who performed the verification
 - ✅ Trust in tamper-proof blockchain records
 
-## 🛠 Technology Stack
+# 🛠 Technology Stack
 
 ### Blockchain & Smart Contracts
 - **Solidity** ^0.8.0 - Smart contract development
