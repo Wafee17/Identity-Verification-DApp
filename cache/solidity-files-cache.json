@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "D:\\identity-verification-dapp\\contracts\\SimpleIdentityVerification.sol": {
+      "lastModificationDate": 1746782072009,
+      "contentHash": "53a7f677a6d882d6b661cce92e6d8e51",
+      "sourceName": "contracts/SimpleIdentityVerification.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "SimpleIdentityVerification"
+      ]
+    }
+  }
+}
