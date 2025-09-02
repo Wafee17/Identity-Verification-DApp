@@ -15,11 +15,8 @@ A beginner-friendly decentralized application (DApp) that enables users to creat
 - [Contributing](#contributing)
 - [License](#license)
 
-## 🌐 Live Demo
 
-> **Coming Soon:** Live demo will be deployed on Vercel/Netlify with testnet integration
-
-For now, follow the installation instructions to run locally.
+Follow the installation instructions to run locally.
 
 The Identity Verification DApp addresses the growing need for decentralized identity management. Instead of relying on centralized authorities, users can:
 
@@ -36,16 +33,6 @@ The Identity Verification DApp addresses the growing need for decentralized iden
 - **Professional Certifications** - Employers verifying employee qualifications
 - **Age Verification** - Online services confirming user age without exposing exact birthdate
 - **Access Control** - Secure building or system access based on verified attributes
-
-## 📸 Screenshots
-
-### Main Interface
-![DApp Interface](https://via.placeholder.com/800x500?text=DApp+Interface+Screenshot)
-*Replace this placeholder with actual screenshots of your application*
-
-### MetaMask Connection
-![MetaMask Connection](https://via.placeholder.com/400x300?text=MetaMask+Connection)
-*Screenshot showing successful wallet connection*
 
 ### For Identity Owners
 - ✅ Create a unique blockchain-based digital identity
@@ -312,24 +299,6 @@ identity-verification-dapp/
 3. Confirm MetaMask is connected to the correct network
 4. Make sure contract address matches deployment output
 
-## 🏆 Project Status & Roadmap
-
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/identity-verification-dapp)
-![GitHub issues](https://img.shields.io/github/issues/your-username/identity-verification-dapp)
-![GitHub stars](https://img.shields.io/github/stars/your-username/identity-verification-dapp)
-![GitHub forks](https://img.shields.io/github/forks/your-username/identity-verification-dapp)
-
-### Current Status: ✅ MVP Complete
-
-- [x] Smart contract development
-- [x] Basic frontend interface  
-- [x] MetaMask integration
-- [x] Local testing environment
-- [ ] Testnet deployment
-- [ ] Enhanced UI/UX
-- [ ] Mobile responsiveness
-- [ ] Advanced privacy features
-
 ### Beginner Improvements
 - Add more user-friendly error messages
 - Implement input validation and sanitization
@@ -379,19 +348,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact & Support
 
-- 👨‍💻 **Developer:** [Your Name](https://github.com/your-username)
-- 📧 **Email:** your.email@example.com
-- 🐛 **Issues:** [Report bugs here](https://github.com/your-username/identity-verification-dapp/issues)
-- 💬 **Discussions:** [Join the conversation](https://github.com/your-username/identity-verification-dapp/discussions)
+- 👨‍💻 **Developer:** [Wafiq](https://github.com/Wafee17)
+- 📧 **Email:** mohammadwafiq58@gmail.com
+- 🐛 **Issues:** [Report bugs here](https://github.com/Wafee17/identity-verification-dapp/issues)
+- 💬 **Discussions:** [Join the conversation](https://github.com/Wafee17/identity-verification-dapp/discussions)
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com)
-
-### ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=your-username/identity-verification-dapp&type=Date)](https://star-history.com/#your-username/identity-verification-dapp&Date)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-wafiq/)
 
 If you found this project helpful:
 - ⭐ **Star this repository**
