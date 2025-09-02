@@ -2,20 +2,6 @@
 
 A beginner-friendly decentralized application (DApp) that enables users to create and manage their digital identity on the Ethereum blockchain. This project demonstrates core blockchain concepts including smart contracts, wallet integration, and decentralized data storage.
 
-## 📋 Table of Contents
-
-- [About the Project](#about-the-project)
-- [Features](#features)
-- [Technology Stack](#technology-stack)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Smart Contract Details](#smart-contract-details)
-- [Contributing](#contributing)
-- [License](#license)
-
-
 Follow the installation instructions to run locally.
 
 The Identity Verification DApp addresses the growing need for decentralized identity management. Instead of relying on centralized authorities, users can:
@@ -50,7 +36,7 @@ The Identity Verification DApp addresses the growing need for decentralized iden
 - ✅ Identify who performed the verification
 - ✅ Trust in tamper-proof blockchain records
 
-# 🛠 Technology Stack
+## 🛠 Technology Stack
 
 ### Blockchain & Smart Contracts
 - **Solidity** ^0.8.0 - Smart contract development
